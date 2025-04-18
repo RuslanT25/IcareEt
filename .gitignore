@@ -1,0 +1,14 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+# Mac
+.DS_Store
+# Logs
+*.log
+# Visual Studio Code
+.vscode/
